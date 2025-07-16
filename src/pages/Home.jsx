@@ -1,6 +1,5 @@
-// src/pages/Home.jsx
+
 import React, { useContext } from 'react';
-// import Header from '../components/Header';
 import Header from '../components/Header';
 import { ThemeContext } from '../../context/ThemeContext';
 
