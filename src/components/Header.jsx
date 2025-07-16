@@ -1,4 +1,4 @@
-// src/components/Header.jsx
+
 import React, { useContext } from 'react';
 import { ThemeContext } from '../../context/ThemeContext';
 import { Link } from 'react-router-dom';
